@@ -46,7 +46,7 @@ Portfolio site linking analytics dashboards, GitHub projects, and case-study wor
 This GitHub profile is focused on practical analytics work:
 - analytics engineering and transformation patterns
 - public data pipelines and visualisation projects
-- portfolio work that shows structured problem solving and technical depth
+- portfolio work to demonstrate structured problem solving and technical depth
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/vinayplusj/)
