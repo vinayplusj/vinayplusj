@@ -33,8 +33,8 @@ Automated election data pipeline and Tableau visualisation using Python, GitHub 
 ### [Early Modern City Generator](https://github.com/vinayplusj/early-modern-city-generator)
 Hobby project: Procedural early modern city generator using javascript with deterministic geometry, fortifications, ward generation, and a live browser demo.
 
-### [Portfolio Site](https://github.com/vinayplusj/vinayplusj.github.io)
-Portfolio site linking analytics dashboards, GitHub projects, and case-study work.
+### [Links](https://github.com/vinayplusj/vinayplusj.github.io)
+Links to analytics dashboards, GitHub projects, social networks and case-study work.
 
 ## Core tools
 **Analytics & measurement:** GA4, Google Tag Manager, Adobe Analytics  
